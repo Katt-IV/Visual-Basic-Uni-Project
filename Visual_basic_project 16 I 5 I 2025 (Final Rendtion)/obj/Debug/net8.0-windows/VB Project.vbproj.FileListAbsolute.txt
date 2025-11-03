@@ -1,0 +1,798 @@
+C:\Users\baraa\source\repos\VB Project\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\baraa\source\repos\VB Project\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\baraa\source\repos\VB Project\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\baraa\source\repos\VB Project\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\baraa\source\repos\VB Project\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\baraa\source\repos\VB Project\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\klozx\Downloads\New folder (3)\VB Project\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\klozx\Downloads\New folder (3)\VB Project\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\klozx\Downloads\New folder (3)\VB Project\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\klozx\Downloads\New folder (3)\VB Project\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\klozx\Downloads\New folder (3)\VB Project\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\klozx\Downloads\New folder (3)\VB Project\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\Downloads\VB Project 2025-03-26\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\Downloads\VB Project 2025-03-26\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\Downloads\VB Project 2025-03-26\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\Downloads\VB Project 2025-03-26\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-03-26\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\Downloads\VB Project 2025-03-26\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-14\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\source\repos\VB Project 2025-4-14\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\source\repos\VB Project 2025-4-14\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\source\repos\VB Project 2025-4-14\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-14\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\source\repos\VB Project 2025-4-14\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\Downloads\VB Project 2025-4-16\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\source\repos\VB Project 2025-4-16\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\Dell\Desktop\vb\aaa\VB Project 29-4-2025\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\jabari for computer\OneDrive\Desktop\VP NEW\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\klozx\Downloads\New folder (5)\VP 1.5.25\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\klozx\Downloads\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.exe
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.pdb
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\New folder (5)\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.dll
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.pdb
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\New folder (5)\Visual_basic_project\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Visual_basic_project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\source\repos\Visual_basic_project\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\Downloads\مشروع نظام صيدلية_براء بدر اقنيبي\Visual_basic_project 13 I 5 I 2025\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\source\repos\Visual_basic_project 15 I 5 I 2025\obj\Debug\net8.0-windows\ref\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\VB Project.exe
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\VB Project.deps.json
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\VB Project.runtimeconfig.json
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB_Project.Form1.resources
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB_Project.Form2.resources
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB_Project.Resources.resources
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.AssemblyInfo.vb
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.vbproj.Up2Date
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\refint\VB Project.dll
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.pdb
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\VB Project.genruntimeconfig.cache
+C:\Users\User\source\repos\Visual_basic_project 16 I 5 I 2025 (Final Rendtion)\obj\Debug\net8.0-windows\ref\VB Project.dll
